@@ -23,7 +23,7 @@ const App = () => {
         </header>
 
         <div className={styles.exchangeContainer}>
-          <h1 className={styles.headTitle}>Uniswap 2.0</h1>
+          <h1 className={styles.headTitle}>KiitSwap</h1>
           <p className={styles.subTitle}>Exchange tokens in seconds</p>
           <p className={styles.subTitle}>Made by Kaustubh, Sanskar, Kartikeya, Yash, Satwik, Aryan</p>
 
